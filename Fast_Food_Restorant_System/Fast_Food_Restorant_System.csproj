@@ -92,5 +92,28 @@
   <ItemGroup>
     <None Include="Resources\french-fries.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orange1.png" />
+    <None Include="Resources\sweet1.png" />
+    <None Include="Resources\chocolate1.png" />
+    <None Include="Resources\water1.png" />
+    <None Include="Resources\soda-bottle1.png" />
+    <None Include="Resources\tea1.png" />
+    <None Include="Resources\cheese1.png" />
+    <None Include="Resources\fried-chicken1.png" />
+    <None Include="Resources\sandwich1.png" />
+    <None Include="Resources\salad1.png" />
+    <None Include="Resources\burger.png" />
+    <Content Include="Resources\cheese.png" />
+    <Content Include="Resources\chocolate.png" />
+    <Content Include="Resources\fried-chicken.png" />
+    <Content Include="Resources\orange.png" />
+    <Content Include="Resources\salad.png" />
+    <Content Include="Resources\sandwich.png" />
+    <Content Include="Resources\soda-bottle.png" />
+    <Content Include="Resources\sweet.png" />
+    <Content Include="Resources\tea.png" />
+    <Content Include="Resources\water.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

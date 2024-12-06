@@ -30,82 +30,82 @@
         {
             this.components = new System.ComponentModel.Container();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.closelbl = new System.Windows.Forms.Label();
             this.Datelbl = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.ChickenTb = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.ChickenCb = new System.Windows.Forms.CheckBox();
             this.CheeseTb = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.CheeseCb = new System.Windows.Forms.CheckBox();
             this.SaladTb = new System.Windows.Forms.TextBox();
             this.SandwichTb = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.SaladCb = new System.Windows.Forms.CheckBox();
             this.SandwichCb = new System.Windows.Forms.CheckBox();
             this.BurgerTb = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.BurgerCb = new System.Windows.Forms.CheckBox();
             this.FriesTb = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.FriesCb = new System.Windows.Forms.CheckBox();
             this.label2 = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
             this.PancakesTb = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
-            this.pictureBox7 = new System.Windows.Forms.PictureBox();
             this.PancakesCb = new System.Windows.Forms.CheckBox();
             this.OrangeTb = new System.Windows.Forms.TextBox();
             this.label11 = new System.Windows.Forms.Label();
-            this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.OrangeCb = new System.Windows.Forms.CheckBox();
             this.WaterTb = new System.Windows.Forms.TextBox();
             this.CHocolateTb = new System.Windows.Forms.TextBox();
             this.label12 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
-            this.pictureBox9 = new System.Windows.Forms.PictureBox();
-            this.pictureBox10 = new System.Windows.Forms.PictureBox();
             this.WaterCb = new System.Windows.Forms.CheckBox();
             this.CHocolateCb = new System.Windows.Forms.CheckBox();
             this.ColaTb = new System.Windows.Forms.TextBox();
             this.label14 = new System.Windows.Forms.Label();
-            this.pictureBox11 = new System.Windows.Forms.PictureBox();
             this.ColaCb = new System.Windows.Forms.CheckBox();
             this.TeaTb = new System.Windows.Forms.TextBox();
             this.label15 = new System.Windows.Forms.Label();
-            this.pictureBox12 = new System.Windows.Forms.PictureBox();
             this.TeaCb = new System.Windows.Forms.CheckBox();
             this.label3 = new System.Windows.Forms.Label();
             this.panel5 = new System.Windows.Forms.Panel();
             this.panel6 = new System.Windows.Forms.Panel();
             this.label16 = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.closelbl = new System.Windows.Forms.Label();
+            this.pictureBox7 = new System.Windows.Forms.PictureBox();
+            this.pictureBox8 = new System.Windows.Forms.PictureBox();
+            this.pictureBox9 = new System.Windows.Forms.PictureBox();
+            this.pictureBox10 = new System.Windows.Forms.PictureBox();
+            this.pictureBox11 = new System.Windows.Forms.PictureBox();
+            this.pictureBox12 = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel3.SuspendLayout();
+            this.panel6.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
-            this.panel6.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -120,6 +120,19 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1288, 181);
             this.panel1.TabIndex = 0;
+            // 
+            // closelbl
+            // 
+            this.closelbl.AutoSize = true;
+            this.closelbl.Font = new System.Drawing.Font("Segoe UI", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.closelbl.ForeColor = System.Drawing.Color.Khaki;
+            this.closelbl.Location = new System.Drawing.Point(1234, 0);
+            this.closelbl.Name = "closelbl";
+            this.closelbl.Size = new System.Drawing.Size(42, 50);
+            this.closelbl.TabIndex = 5;
+            this.closelbl.Tag = "";
+            this.closelbl.Text = "x";
+            this.closelbl.Click += new System.EventHandler(this.closelbl_Click);
             // 
             // Datelbl
             // 
@@ -200,16 +213,6 @@
             this.label7.TabIndex = 29;
             this.label7.Text = "Chicken";
             // 
-            // pictureBox3
-            // 
-            this.pictureBox3.Image = global::Fast_Food_Restorant_System.Properties.Resources.french_fries;
-            this.pictureBox3.Location = new System.Drawing.Point(68, 443);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(67, 70);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 28;
-            this.pictureBox3.TabStop = false;
-            // 
             // ChickenCb
             // 
             this.ChickenCb.AutoSize = true;
@@ -240,16 +243,6 @@
             this.label9.Size = new System.Drawing.Size(78, 28);
             this.label9.TabIndex = 25;
             this.label9.Text = "Cheese";
-            // 
-            // pictureBox6
-            // 
-            this.pictureBox6.Image = global::Fast_Food_Restorant_System.Properties.Resources.french_fries;
-            this.pictureBox6.Location = new System.Drawing.Point(68, 533);
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(67, 70);
-            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox6.TabIndex = 24;
-            this.pictureBox6.TabStop = false;
             // 
             // CheeseCb
             // 
@@ -304,26 +297,6 @@
             this.label6.TabIndex = 18;
             this.label6.Text = "Sandwich";
             // 
-            // pictureBox5
-            // 
-            this.pictureBox5.Image = global::Fast_Food_Restorant_System.Properties.Resources.french_fries;
-            this.pictureBox5.Location = new System.Drawing.Point(68, 265);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(67, 70);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox5.TabIndex = 17;
-            this.pictureBox5.TabStop = false;
-            // 
-            // pictureBox4
-            // 
-            this.pictureBox4.Image = global::Fast_Food_Restorant_System.Properties.Resources.french_fries;
-            this.pictureBox4.Location = new System.Drawing.Point(68, 353);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(67, 70);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox4.TabIndex = 17;
-            this.pictureBox4.TabStop = false;
-            // 
             // SaladCb
             // 
             this.SaladCb.AutoSize = true;
@@ -366,16 +339,6 @@
             this.label5.TabIndex = 10;
             this.label5.Text = "Burger";
             // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Image = global::Fast_Food_Restorant_System.Properties.Resources.french_fries;
-            this.pictureBox2.Location = new System.Drawing.Point(68, 178);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(67, 70);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 9;
-            this.pictureBox2.TabStop = false;
-            // 
             // BurgerCb
             // 
             this.BurgerCb.AutoSize = true;
@@ -407,17 +370,6 @@
             this.label4.Size = new System.Drawing.Size(56, 28);
             this.label4.TabIndex = 6;
             this.label4.Text = "Fries";
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::Fast_Food_Restorant_System.Properties.Resources.french_fries;
-            this.pictureBox1.Location = new System.Drawing.Point(68, 86);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(67, 70);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 5;
-            this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // FriesCb
             // 
@@ -506,16 +458,6 @@
             this.label10.TabIndex = 54;
             this.label10.Text = "Pancakes";
             // 
-            // pictureBox7
-            // 
-            this.pictureBox7.Image = global::Fast_Food_Restorant_System.Properties.Resources.french_fries;
-            this.pictureBox7.Location = new System.Drawing.Point(46, 431);
-            this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(67, 70);
-            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox7.TabIndex = 53;
-            this.pictureBox7.TabStop = false;
-            // 
             // PancakesCb
             // 
             this.PancakesCb.AutoSize = true;
@@ -546,16 +488,6 @@
             this.label11.Size = new System.Drawing.Size(81, 28);
             this.label11.TabIndex = 50;
             this.label11.Text = "Orange";
-            // 
-            // pictureBox8
-            // 
-            this.pictureBox8.Image = global::Fast_Food_Restorant_System.Properties.Resources.french_fries;
-            this.pictureBox8.Location = new System.Drawing.Point(46, 521);
-            this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(67, 70);
-            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox8.TabIndex = 49;
-            this.pictureBox8.TabStop = false;
             // 
             // OrangeCb
             // 
@@ -610,26 +542,6 @@
             this.label13.TabIndex = 44;
             this.label13.Text = "CHocolate";
             // 
-            // pictureBox9
-            // 
-            this.pictureBox9.Image = global::Fast_Food_Restorant_System.Properties.Resources.french_fries;
-            this.pictureBox9.Location = new System.Drawing.Point(46, 253);
-            this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(67, 70);
-            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox9.TabIndex = 43;
-            this.pictureBox9.TabStop = false;
-            // 
-            // pictureBox10
-            // 
-            this.pictureBox10.Image = global::Fast_Food_Restorant_System.Properties.Resources.french_fries;
-            this.pictureBox10.Location = new System.Drawing.Point(46, 341);
-            this.pictureBox10.Name = "pictureBox10";
-            this.pictureBox10.Size = new System.Drawing.Size(67, 70);
-            this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox10.TabIndex = 42;
-            this.pictureBox10.TabStop = false;
-            // 
             // WaterCb
             // 
             this.WaterCb.AutoSize = true;
@@ -670,16 +582,6 @@
             this.label14.TabIndex = 38;
             this.label14.Text = "Cola";
             // 
-            // pictureBox11
-            // 
-            this.pictureBox11.Image = global::Fast_Food_Restorant_System.Properties.Resources.french_fries;
-            this.pictureBox11.Location = new System.Drawing.Point(46, 166);
-            this.pictureBox11.Name = "pictureBox11";
-            this.pictureBox11.Size = new System.Drawing.Size(67, 70);
-            this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox11.TabIndex = 37;
-            this.pictureBox11.TabStop = false;
-            // 
             // ColaCb
             // 
             this.ColaCb.AutoSize = true;
@@ -710,16 +612,6 @@
             this.label15.Size = new System.Drawing.Size(44, 28);
             this.label15.TabIndex = 34;
             this.label15.Text = "Tea";
-            // 
-            // pictureBox12
-            // 
-            this.pictureBox12.Image = global::Fast_Food_Restorant_System.Properties.Resources.french_fries;
-            this.pictureBox12.Location = new System.Drawing.Point(46, 74);
-            this.pictureBox12.Name = "pictureBox12";
-            this.pictureBox12.Size = new System.Drawing.Size(67, 70);
-            this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox12.TabIndex = 33;
-            this.pictureBox12.TabStop = false;
             // 
             // TeaCb
             // 
@@ -776,18 +668,126 @@
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // closelbl
+            // pictureBox7
             // 
-            this.closelbl.AutoSize = true;
-            this.closelbl.Font = new System.Drawing.Font("Segoe UI", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.closelbl.ForeColor = System.Drawing.Color.Khaki;
-            this.closelbl.Location = new System.Drawing.Point(1234, 0);
-            this.closelbl.Name = "closelbl";
-            this.closelbl.Size = new System.Drawing.Size(42, 50);
-            this.closelbl.TabIndex = 5;
-            this.closelbl.Tag = "";
-            this.closelbl.Text = "x";
-            this.closelbl.Click += new System.EventHandler(this.closelbl_Click);
+            this.pictureBox7.Image = global::Fast_Food_Restorant_System.Properties.Resources.sweet;
+            this.pictureBox7.Location = new System.Drawing.Point(46, 431);
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.Size = new System.Drawing.Size(67, 70);
+            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox7.TabIndex = 53;
+            this.pictureBox7.TabStop = false;
+            // 
+            // pictureBox8
+            // 
+            this.pictureBox8.Image = global::Fast_Food_Restorant_System.Properties.Resources.orange;
+            this.pictureBox8.Location = new System.Drawing.Point(46, 521);
+            this.pictureBox8.Name = "pictureBox8";
+            this.pictureBox8.Size = new System.Drawing.Size(67, 70);
+            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox8.TabIndex = 49;
+            this.pictureBox8.TabStop = false;
+            // 
+            // pictureBox9
+            // 
+            this.pictureBox9.Image = global::Fast_Food_Restorant_System.Properties.Resources.water;
+            this.pictureBox9.Location = new System.Drawing.Point(46, 253);
+            this.pictureBox9.Name = "pictureBox9";
+            this.pictureBox9.Size = new System.Drawing.Size(67, 70);
+            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox9.TabIndex = 43;
+            this.pictureBox9.TabStop = false;
+            // 
+            // pictureBox10
+            // 
+            this.pictureBox10.Image = global::Fast_Food_Restorant_System.Properties.Resources.chocolate;
+            this.pictureBox10.Location = new System.Drawing.Point(46, 341);
+            this.pictureBox10.Name = "pictureBox10";
+            this.pictureBox10.Size = new System.Drawing.Size(67, 70);
+            this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox10.TabIndex = 42;
+            this.pictureBox10.TabStop = false;
+            // 
+            // pictureBox11
+            // 
+            this.pictureBox11.Image = global::Fast_Food_Restorant_System.Properties.Resources.soda_bottle;
+            this.pictureBox11.Location = new System.Drawing.Point(46, 166);
+            this.pictureBox11.Name = "pictureBox11";
+            this.pictureBox11.Size = new System.Drawing.Size(67, 70);
+            this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox11.TabIndex = 37;
+            this.pictureBox11.TabStop = false;
+            // 
+            // pictureBox12
+            // 
+            this.pictureBox12.Image = global::Fast_Food_Restorant_System.Properties.Resources.tea;
+            this.pictureBox12.Location = new System.Drawing.Point(46, 74);
+            this.pictureBox12.Name = "pictureBox12";
+            this.pictureBox12.Size = new System.Drawing.Size(67, 70);
+            this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox12.TabIndex = 33;
+            this.pictureBox12.TabStop = false;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = global::Fast_Food_Restorant_System.Properties.Resources.fried_chicken;
+            this.pictureBox3.Location = new System.Drawing.Point(68, 443);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(67, 70);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 28;
+            this.pictureBox3.TabStop = false;
+            // 
+            // pictureBox6
+            // 
+            this.pictureBox6.Image = global::Fast_Food_Restorant_System.Properties.Resources.cheese;
+            this.pictureBox6.Location = new System.Drawing.Point(68, 533);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(67, 70);
+            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox6.TabIndex = 24;
+            this.pictureBox6.TabStop = false;
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Image = global::Fast_Food_Restorant_System.Properties.Resources.salad;
+            this.pictureBox5.Location = new System.Drawing.Point(68, 265);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(67, 70);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox5.TabIndex = 17;
+            this.pictureBox5.TabStop = false;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = global::Fast_Food_Restorant_System.Properties.Resources.sandwich;
+            this.pictureBox4.Location = new System.Drawing.Point(68, 353);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(67, 70);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox4.TabIndex = 17;
+            this.pictureBox4.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::Fast_Food_Restorant_System.Properties.Resources.burger;
+            this.pictureBox2.Location = new System.Drawing.Point(68, 178);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(67, 70);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 9;
+            this.pictureBox2.TabStop = false;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::Fast_Food_Restorant_System.Properties.Resources.french_fries;
+            this.pictureBox1.Location = new System.Drawing.Point(68, 86);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(67, 70);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 5;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // FastFoodResturantTuto
             // 
@@ -806,22 +806,22 @@
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();
+            this.panel6.ResumeLayout(false);
+            this.panel6.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
-            this.panel6.ResumeLayout(false);
-            this.panel6.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
