@@ -69,5 +69,19 @@ namespace Fast_Food_Restorant_System
                 FriesCb.Text = "0";
             }
         }
+
+        private void BurgerCb_CheckedChanged(object sender, EventArgs e)
+        {
+            if (BurgerCb.Checked == true)
+            {
+                BurgerCb.Enabled = true;
+            }
+            if (BurgerCb.Checked == false)
+            {
+
+                BurgerCb.Enabled = false;
+                BurgerCb.Text = "0";
+            }
+        }
     }
 }

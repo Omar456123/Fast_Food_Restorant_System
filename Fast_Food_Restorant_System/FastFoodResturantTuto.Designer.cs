@@ -380,6 +380,7 @@
             this.BurgerCb.Size = new System.Drawing.Size(18, 17);
             this.BurgerCb.TabIndex = 8;
             this.BurgerCb.UseVisualStyleBackColor = true;
+            this.BurgerCb.CheckedChanged += new System.EventHandler(this.BurgerCb_CheckedChanged);
             // 
             // FriesTb
             // 
