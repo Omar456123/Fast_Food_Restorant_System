@@ -340,6 +340,7 @@
             this.SandwichCb.Size = new System.Drawing.Size(18, 17);
             this.SandwichCb.TabIndex = 12;
             this.SandwichCb.UseVisualStyleBackColor = true;
+            this.SandwichCb.CheckedChanged += new System.EventHandler(this.SandwichCb_Checked_Changed);
             // 
             // BurgerTb
             // 

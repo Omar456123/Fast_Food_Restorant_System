@@ -97,5 +97,19 @@ namespace Fast_Food_Restorant_System
                 SaladCb.Text = "0";
             }
         }
+
+        private void SandwichCb_Checked_Changed(object sender, EventArgs e)
+        {
+            if (SandwichCb.Checked == true)
+            {
+                SandwichCb.Enabled = true;
+            }
+            if (SandwichCb.Checked == false)
+            {
+
+                SandwichCb.Enabled = false;
+                SandwichCb.Text = "0";
+            }
+        }
     }
 }
