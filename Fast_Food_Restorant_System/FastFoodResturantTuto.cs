@@ -116,5 +116,39 @@ namespace Fast_Food_Restorant_System
         {
             Application.Exit();
         }
+
+        private void panel7_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label17_Click(object sender, EventArgs e)
+        {
+
+        }
+        Double friesP = 15, burgerP = 80, saladP = 100, sandwichP = 90, colaP = 5, cheeseP = 25;
+        Double orangeP = 16, PancakesP = 80, waterP = 2, teaP = 10, chocolateP = 20;
+        //
+        Double frisetP, burgertP, saladtP, sandwichtP, colatP, cheesetP, orangetP, PancakestP, watertP, teatP, chocolatetP;
+        Double Subtotale;
+        private void addBtn_Click(object sender, EventArgs e)
+        {
+            frisetP = frisetP * Convert.ToDouble(FriesTb.Text);
+            burgerP = burgertP * Convert.ToDouble(BurgerTb.Text);
+            saladP = saladtP * Convert.ToDouble(SaladTb.Text);
+            sandwichP = sandwichtP * Convert.ToDouble(SandwichTb.Text);
+            colaP = colatP * Convert.ToDouble(ColaTb.Text);
+            cheeseP = cheesetP * Convert.ToDouble(CheeseTb.Text);
+            orangeP = orangetP * Convert.ToDouble(OrangeTb.Text);
+            PancakesP = PancakestP * Convert.ToDouble(PancakesTb.Text);
+            waterP = watertP * Convert.ToDouble(WaterTb.Text);
+            teaP = teatP * Convert.ToDouble(TeaTb.Text);
+            chocolateP = chocolatetP * Convert.ToDouble(CHocolateTb.Text);
+
+        }
+        private void ReceiptTb_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
