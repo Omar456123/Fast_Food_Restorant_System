@@ -330,6 +330,7 @@
             this.SaladCb.Size = new System.Drawing.Size(18, 17);
             this.SaladCb.TabIndex = 13;
             this.SaladCb.UseVisualStyleBackColor = true;
+            this.SaladCb.CheckedChanged += new System.EventHandler(this.SaladCb_CheckedChanged);
             // 
             // SandwichCb
             // 
