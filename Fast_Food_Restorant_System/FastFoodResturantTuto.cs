@@ -111,5 +111,10 @@ namespace Fast_Food_Restorant_System
                 SandwichCb.Text = "0";
             }
         }
+
+        private void closelbl_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

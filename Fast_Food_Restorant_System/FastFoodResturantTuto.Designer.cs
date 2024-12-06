@@ -89,6 +89,7 @@
             this.panel6 = new System.Windows.Forms.Panel();
             this.label16 = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.closelbl = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -110,6 +111,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.Red;
+            this.panel1.Controls.Add(this.closelbl);
             this.panel1.Controls.Add(this.Datelbl);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
@@ -774,6 +776,19 @@
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
+            // closelbl
+            // 
+            this.closelbl.AutoSize = true;
+            this.closelbl.Font = new System.Drawing.Font("Segoe UI", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.closelbl.ForeColor = System.Drawing.Color.Khaki;
+            this.closelbl.Location = new System.Drawing.Point(1234, 0);
+            this.closelbl.Name = "closelbl";
+            this.closelbl.Size = new System.Drawing.Size(42, 50);
+            this.closelbl.TabIndex = 5;
+            this.closelbl.Tag = "";
+            this.closelbl.Text = "x";
+            this.closelbl.Click += new System.EventHandler(this.closelbl_Click);
+            // 
             // FastFoodResturantTuto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -873,5 +888,6 @@
         private System.Windows.Forms.Label Datelbl;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Label closelbl;
     }
 }
