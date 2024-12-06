@@ -416,7 +416,7 @@
             this.FriesCb.Size = new System.Drawing.Size(18, 17);
             this.FriesCb.TabIndex = 4;
             this.FriesCb.UseVisualStyleBackColor = true;
-            this.FriesCb.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            this.FriesCb.CheckedChanged += new System.EventHandler(this.FriseCb_CheckedChanged);
             // 
             // label2
             // 
