@@ -16,5 +16,56 @@ namespace Fast_Food_Restorant_System
         {
             InitializeComponent();
         }
+
+        private void FastFoodResturantTuto_Load(object sender, EventArgs e)
+        {
+            Datelbl.Text = DateTime.Now.ToLongDateString();
+            timer1.Start();
+        }
+
+        private void panel4_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (FriesCb.Checked == true) 
+            {
+                FriesCb.Enabled = true;
+            }
+            if (FriesCb.Checked == false)
+            { 
+               
+                FriesCb.Enabled = false;
+                FriesCb.Text = "0";
+            }
+        }
+        
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            Datelbl.Text = DateTime.Now.ToLongTimeString();
+        }
     }
 }
