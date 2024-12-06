@@ -179,6 +179,7 @@
             // ChickenTb
             // 
             this.ChickenTb.Enabled = false;
+            this.ChickenTb.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ChickenTb.Location = new System.Drawing.Point(258, 456);
             this.ChickenTb.Multiline = true;
             this.ChickenTb.Name = "ChickenTb";
@@ -219,6 +220,7 @@
             // CheeseTb
             // 
             this.CheeseTb.Enabled = false;
+            this.CheeseTb.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.CheeseTb.Location = new System.Drawing.Point(258, 546);
             this.CheeseTb.Multiline = true;
             this.CheeseTb.Name = "CheeseTb";
@@ -259,6 +261,7 @@
             // SaladTb
             // 
             this.SaladTb.Enabled = false;
+            this.SaladTb.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.SaladTb.Location = new System.Drawing.Point(258, 278);
             this.SaladTb.Multiline = true;
             this.SaladTb.Name = "SaladTb";
@@ -269,6 +272,7 @@
             // SandwichTb
             // 
             this.SandwichTb.Enabled = false;
+            this.SandwichTb.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.SandwichTb.Location = new System.Drawing.Point(258, 366);
             this.SandwichTb.Multiline = true;
             this.SandwichTb.Name = "SandwichTb";
@@ -339,6 +343,7 @@
             // BurgerTb
             // 
             this.BurgerTb.Enabled = false;
+            this.BurgerTb.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BurgerTb.Location = new System.Drawing.Point(258, 194);
             this.BurgerTb.Multiline = true;
             this.BurgerTb.Name = "BurgerTb";
@@ -379,6 +384,7 @@
             // FriesTb
             // 
             this.FriesTb.Enabled = false;
+            this.FriesTb.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FriesTb.Location = new System.Drawing.Point(258, 99);
             this.FriesTb.Multiline = true;
             this.FriesTb.Name = "FriesTb";
@@ -476,6 +482,7 @@
             // PancakesTb
             // 
             this.PancakesTb.Enabled = false;
+            this.PancakesTb.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.PancakesTb.Location = new System.Drawing.Point(236, 444);
             this.PancakesTb.Multiline = true;
             this.PancakesTb.Name = "PancakesTb";
@@ -516,6 +523,7 @@
             // OrangeTb
             // 
             this.OrangeTb.Enabled = false;
+            this.OrangeTb.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.OrangeTb.Location = new System.Drawing.Point(236, 534);
             this.OrangeTb.Multiline = true;
             this.OrangeTb.Name = "OrangeTb";
@@ -556,6 +564,7 @@
             // WaterTb
             // 
             this.WaterTb.Enabled = false;
+            this.WaterTb.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.WaterTb.Location = new System.Drawing.Point(236, 266);
             this.WaterTb.Multiline = true;
             this.WaterTb.Name = "WaterTb";
@@ -566,6 +575,7 @@
             // CHocolateTb
             // 
             this.CHocolateTb.Enabled = false;
+            this.CHocolateTb.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.CHocolateTb.Location = new System.Drawing.Point(236, 354);
             this.CHocolateTb.Multiline = true;
             this.CHocolateTb.Name = "CHocolateTb";
@@ -636,6 +646,7 @@
             // ColaTb
             // 
             this.ColaTb.Enabled = false;
+            this.ColaTb.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ColaTb.Location = new System.Drawing.Point(236, 182);
             this.ColaTb.Multiline = true;
             this.ColaTb.Name = "ColaTb";
@@ -676,6 +687,7 @@
             // TeaTb
             // 
             this.TeaTb.Enabled = false;
+            this.TeaTb.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TeaTb.Location = new System.Drawing.Point(236, 87);
             this.TeaTb.Multiline = true;
             this.TeaTb.Name = "TeaTb";
